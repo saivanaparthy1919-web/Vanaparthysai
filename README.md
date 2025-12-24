@@ -36,13 +36,6 @@ Skilled in database management, REST API development, and building responsive we
 - Team collaboration  
 - Quick learner and adaptable to new technologies  
 
----
-
-### 📊 GitHub Stats
-![Vanaparthy's GitHub stats](https://github-readme-stats.vercel.app/api?username=saivanaparthy1919-web&show_icons=true&theme=tokyonight)
-
----
-
 ### 📫 Connect with Me
 📍 Telangana, India  
 📧 [saivanaparthy1919@gmail.com](mailto:saivanaparthy1919@gmail.com)  

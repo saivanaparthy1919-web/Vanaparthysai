@@ -46,6 +46,6 @@ Skilled in database management, REST API development, and building responsive we
 
 ### 📫 Connect with Me
 📍 Telangana, India  
-📧 [vanaparthysai@zohomail.in](mailto:vanaparthysai@zohomail.in)  
+📧 [saivanaparthy1919@gmail.com](mailto:saivanaparthy1919@gmail.com)  
 📞 +91-7729875076  
 [LinkedIn](https://www.linkedin.com/) *(Add your real LinkedIn link here)*

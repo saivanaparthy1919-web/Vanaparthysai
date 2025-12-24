@@ -32,12 +32,6 @@ Skilled in database management, REST API development, and building responsive we
 
 ---
 
-### 📚 Currently Learning
-- React.js for dynamic frontend development  
-- FastAPI for high-performance Python backend APIs  
-
----
-
 ### 🧠 Soft Skills
 - Problem-solving & analytical thinking  
 - Team collaboration  

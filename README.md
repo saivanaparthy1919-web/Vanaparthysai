@@ -5,7 +5,7 @@
 ---
 
 ### 🎯 Career Objective
-Motivated and detail-oriented Full Stack Developer with a strong foundation in Python (Django, Flask) for backend development and HTML, CSS, and JavaScript for frontend design.  
+Motivated and detail-oriented Full Stack Developer with a strong foundation in Python (Django) for backend development and HTML, CSS, and JavaScript for frontend design.  
 Skilled in database management, REST API development, and building responsive web applications.  
 
 ---

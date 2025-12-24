@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vanaparthy Sai  
 
-💻 **Full Stack Developer** | 🌐 **Python | Django | JavaScript | MySQL**
+💻 **Full Stack Developer** | 🌐 **Python | Django | HTML|CSS|JavaScript **
 
 ---
 
@@ -14,7 +14,6 @@ Skilled in database management, REST API development, and building responsive we
 - **Programming Languages:** Python  
 - **Frameworks:** Django, Flask  
 - **Frontend:** HTML5, CSS3, JavaScript  
-- **Database:** MySQL  
 - **Version Control:** Git, GitHub  
 - **Concepts:** REST APIs, OOPs  
 
